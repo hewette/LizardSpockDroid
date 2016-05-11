@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="ResetGame">Reset Game</string>
+  <string name="Rock">Rock</string>
+  <string name="Paper">Paper</string>
+  <string name="Scissors">Scissors</string>
+  <string name="Lizard">Lizard</string>
+  <string name="Spock">Spock</string>
+  <string name="HiScore">Hi Scores</string>
+  <string name="ApplicationName">LizardSpockDroid</string>
+  <string name="clearall">Clear All</string>
+</resources>
